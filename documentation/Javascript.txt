@@ -1,0 +1,15 @@
+Intedezante 
+
+https://www.meteor.com/
+https://nodejs.org/en/
+http://sailsjs.org/
+http://threejs.org/
+http://armsglobe.chromeexperiments.com/
+https://d3js.org/
+http://p5js.org/
+
+Javascript-> lenguaje de programación no orientado a objetos pero s epueden crear objetos
+
+		Variables, puntos de decision, loop
+
+DOM-> documento object mode es lo que renderiza el browser trabajado desde js

@@ -1,0 +1,28 @@
+.border{
+	border: 3px solid black;
+
+}
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.box{
+	background-color: #fff;
+	padding: 2%;
+
+}
+
+footer {
+
+	position: relative;
+	min-height: 250px;
+
+}
+
+footer p {
+	position: absolute;
+	bottom: 0;
+	margin-left: 10px;
+	color: gray;
+}
